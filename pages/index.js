@@ -21,7 +21,7 @@ const switchToTeaSepolia = async () => {
             {
               chainId: TEA_SEPOLIA_CHAIN_ID,
               chainName: "Tea Sepolia",
-              rpcUrls: ["https://tea-sepolia.g.alchemy.com/v2/your-api-key"],
+              rpcUrls: ["https://tea-sepolia.g.alchemy.com/v2/0qiY9LelIcif8b0uECA5nFbWeTDvsU3t"],
               nativeCurrency: {
                 name: "TEA",
                 symbol: "TEA",
